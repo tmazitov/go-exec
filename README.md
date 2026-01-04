@@ -7,5 +7,5 @@ You can find examples of channel usage, goroutines, concurrency patterns, and mo
 
 ## Channels
 
-- [x] Merge Channels (Medium)
+- [x] `Fan-In Merge` (Medium)
 
