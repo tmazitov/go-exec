@@ -1,8 +1,8 @@
 package main
 
 import (
+	"fan_in_merge/solutions"
 	"fmt"
-	"merge/solutions"
 	"time"
 )
 

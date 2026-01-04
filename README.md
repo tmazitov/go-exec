@@ -8,6 +8,8 @@ You can find examples of channel usage, goroutines, concurrency patterns, and mo
 ## List of Exercises
 | Status | Name | Difficulty | Description |
 |--------|------|------------| ----------- |
-| ✅ | Fan-In Merge | Medium | Redirect information from several channels to the result channel. |
-| ❌ | Something    | Easy   | About |
+| ✅ | Fan-In Merge         | Medium | Redirect information from several channels to the result channel. |
+| ✅ | Slice Intersection   | Easy   | Find intersection between 2 slices and return new slice as a result. |
+| ❌ | Something            | Easy   | About |
+
 

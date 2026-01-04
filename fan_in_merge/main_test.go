@@ -1,7 +1,7 @@
 package main
 
 import (
-	"merge/solutions"
+	"fan_in_merge/solutions"
 	"reflect"
 	"sort"
 	"testing"
