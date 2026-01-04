@@ -6,7 +6,8 @@ You can find examples of channel usage, goroutines, concurrency patterns, and mo
 ---
 
 ## Channels
-| Status | Name | Difficulty |
-|--------|------|------------|
-| ✅ | Fan-In Merge | Medium |
-| ❌ | Something    | Easy   |
+| Status | Name | Difficulty | Description |
+|--------|------|------------| ----------- |
+| ✅ | Fan-In Merge | Medium | Redirect information from several channels to the result channel. |
+| ❌ | Something    | Easy   | About |
+
